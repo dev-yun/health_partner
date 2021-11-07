@@ -156,3 +156,7 @@ cython_debug/
 .idea/
 
 HP_aws_key.pem
+
+Dockerfile
+
+/media
