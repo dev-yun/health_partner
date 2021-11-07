@@ -160,3 +160,5 @@ HP_aws_key.pem
 Dockerfile
 
 /media
+
+db.sqlite3
