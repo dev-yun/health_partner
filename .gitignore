@@ -154,3 +154,5 @@ cython_debug/
 # Customized
 .idea
 .idea/
+
+HP_aws_key.pem
