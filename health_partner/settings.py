@@ -46,7 +46,6 @@ INSTALLED_APPS = [
     'bootstrap4',
     'embed_video',
     'channels',
-    'corsheaders',
     'accountapp.apps.AccountappConfig',
     'profileapp.apps.ProfileappConfig',
     'trainerapp.apps.TrainerappConfig',
@@ -65,7 +64,6 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'corsheaders.middleware.CorsMiddleware',
 ]
 
 ROOT_URLCONF = 'health_partner.urls'
